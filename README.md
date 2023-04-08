@@ -61,7 +61,7 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/96M4ENS66GZ3"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~96M4ENS66GZ3/CERTIFICATE_LANDING_PAGE~96M4ENS66GZ3.jpeg" height="400"></a>
-  <a href="https://www.credly.com/earner/earned/badge/09bd9bda-217c-4b88-82d3-a6dcf3ac440a"><img src="https://images.credly.com/size/680x680/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" height="400"></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/XUBPTC7WD5X9"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XUBPTC7WD5X9/CERTIFICATE_LANDING_PAGE~XUBPTC7WD5X9.jpeg" height="400"></a>
+  <a href="https://www.credly.com/earner/earned/badge/a577d9cc-bb9d-4d54-809f-65b9b3fb1e36"><img src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" height="400"></a>
 
 
