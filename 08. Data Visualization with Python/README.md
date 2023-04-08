@@ -21,6 +21,6 @@ This course teaches how to present and visualize complex data in a manner that m
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/CWXDMXL3GKMC"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CWXDMXL3GKMC/CERTIFICATE_LANDING_PAGE~CWXDMXL3GKMC.jpeg" height="430"></a>
-  <a href="https://www.credly.com/org/ibm/badge/data-visualization-with-python"><img src="https://images.credly.com/size/680x680/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/CWXDMXL3GKMC"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CWXDMXL3GKMC/CERTIFICATE_LANDING_PAGE~CWXDMXL3GKMC.jpeg" height="330"></a>
+  <a href="https://www.credly.com/org/ibm/badge/data-visualization-with-python"><img src="https://images.credly.com/size/680x680/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png" height="330"></a>
 </p>
