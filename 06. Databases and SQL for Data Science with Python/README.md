@@ -56,5 +56,5 @@ The purpose of this course is to introduce relational database concepts and to l
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/FATDALMME3EP"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FATDALMME3EP/CERTIFICATE_LANDING_PAGE~FATDALMME3EP.jpeg" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/FATDALMME3EP"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FATDALMME3EP/CERTIFICATE_LANDING_PAGE~FATDALMME3EP.jpeg" height="330"></a>
 
