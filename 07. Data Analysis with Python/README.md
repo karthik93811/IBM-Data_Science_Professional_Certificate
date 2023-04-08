@@ -42,7 +42,7 @@ This course involves using Python to explore many different types of data. It co
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/DWMFYDV7YE9K"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DWMFYDV7YE9K/CERTIFICATE_LANDING_PAGE~DWMFYDV7YE9K.jpeg" height="430"></a>
-  <a href="https://www.credly.com/org/ibm/badge/data-analysis-with-python"><img src="https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/DWMFYDV7YE9K"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DWMFYDV7YE9K/CERTIFICATE_LANDING_PAGE~DWMFYDV7YE9K.jpeg" height="330"></a>
+  <a href="https://www.credly.com/org/ibm/badge/data-analysis-with-python"><img src="https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png" height="330"></a>
 </p>
 
