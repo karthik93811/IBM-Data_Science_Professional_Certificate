@@ -19,6 +19,6 @@ Data science is the field of gaining insights from data, often with a focus on u
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/9J5DXSTHDN3W"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9J5DXSTHDN3W/CERTIFICATE_LANDING_PAGE~9J5DXSTHDN3W.jpeg" height="350"></a>
-  <a href="https://www.credly.com/org/ibm/badge/data-science-orientation"><img src="https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="350"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/9J5DXSTHDN3W"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9J5DXSTHDN3W/CERTIFICATE_LANDING_PAGE~9J5DXSTHDN3W.jpeg" height="330"></a>
+  <a href="https://www.credly.com/org/ibm/badge/data-science-orientation"><img src="https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="330"></a>
 </p>
