@@ -59,6 +59,6 @@ This project follows these steps:
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href=""><img src="" height="420"></a>
-  <a href=""><img src="" height="420"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/96M4ENS66GZ3"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~96M4ENS66GZ3/CERTIFICATE_LANDING_PAGE~96M4ENS66GZ3.jpeg" height="420"></a>
+  <a href="https://www.credly.com/earner/earned/badge/09bd9bda-217c-4b88-82d3-a6dcf3ac440a"><img src="https://images.credly.com/size/680x680/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" height="420"></a>
 </p>
