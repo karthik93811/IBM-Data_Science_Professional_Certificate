@@ -52,7 +52,7 @@ The purpose of this course is to introduce relational database concepts and to l
 - Writing SQL statements including SELECT, INSERT, UPDATE, and DELETE
 - Generating joins to query data from multiple tables
 
-## 🏆 Certificates 
+## 🏆 Certificate
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
