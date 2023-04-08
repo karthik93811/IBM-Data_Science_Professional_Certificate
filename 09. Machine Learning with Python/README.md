@@ -42,6 +42,6 @@ The [final project](https://github.com/karthik93811/IBM-Data_Science_Professiona
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/PSV2H7RDMWTV"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PSV2H7RDMWTV/CERTIFICATE_LANDING_PAGE~PSV2H7RDMWTV.jpeg" height="430"></a>
-  <a href="https://www.credly.com/org/ibm/badge/machine-learning-with-python"><img src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/PSV2H7RDMWTV"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PSV2H7RDMWTV/CERTIFICATE_LANDING_PAGE~PSV2H7RDMWTV.jpeg" height="330"></a>
+  <a href="https://www.credly.com/org/ibm/badge/machine-learning-with-python"><img src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png" height="330"></a>
 </p>
